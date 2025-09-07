@@ -12,7 +12,7 @@ A Python-based GUI application that helps analyze password strength and generate
 
 ## ⚙️ Installation
 1. Clone the repository:  
-   `git clone https://github.com/your-username/password-tool.git`
+   `git clone https://github.com/shindeharsh3399/Password-Analyzer-Wordlist-Generator-Tool.git`
 2. Install dependencies:  
    - Windows --> `pip install zxcvbn tkinter`
    - Linux   --> `apt install python3-zxcvbn && apt install python3-tkinter`
@@ -29,10 +29,12 @@ Run the tool by executing:
 
 ## 🖼️ Sample Screenshots
 **Main GUI Interface**
-![Main Interface](images/main_interface.png) 
+---
+![Main Interface](https://github.com/shindeharsh3399/Password-Analyzer-Wordlist-Generator-Tool/blob/main/Screenshots/Main_GUI_Interface.png) 
 
 **Wordlist Generated Example**  
-![Wordlist Output](images/wordlist_output.png)
+---
+![Wordlist Output](https://github.com/shindeharsh3399/Password-Analyzer-Wordlist-Generator-Tool/blob/main/Screenshots/Wordlist_Generated.png)
 
 ## 🎯 Example Use Cases
 - Generate targeted wordlists for penetration tests  
